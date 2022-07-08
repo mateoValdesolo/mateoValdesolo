@@ -70,6 +70,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
 
+<!-- Eclipse -->
+<a href="https://www.eclipse.org/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="40" height="40"/>
+</a>
+
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

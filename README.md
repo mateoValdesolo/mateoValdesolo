@@ -2,7 +2,7 @@
 
 - 📚 I'm currently studying a degree in Information Systems.
 
-- 🌱 I'm currently learning Java and Javascript among other technologies.
+- 🌱 I'm currently learning Java among other technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Mateo%20Valdesolo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-valdesolo/)
 

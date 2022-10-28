@@ -35,6 +35,12 @@
 <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" alt="mariadb" width="40" height="40" />
 </a> -->
 
+<!-- Docker -->
+<a href="https://www.haskell.org/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
+</a> 
+  
+  
 <!-- Haskell -->
 <a href="https://www.haskell.org/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> 

@@ -25,6 +25,11 @@
 <img src="https://user-images.githubusercontent.com/43886029/158700686-2b7f0d3d-2cfa-4ed0-9783-3b4b0d24469e.svg" alt="maven" width="40" height="40"/> 
 </a> 
 
+<!-- Junit -->
+<a href="https://junit.org/junit5/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="eclipse" width="40" height="40"/>
+</a>
+
 <!-- Tomcat -->
 <a href="https://tomcat.apache.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40" />
@@ -61,6 +66,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
 </a>
 
+<!-- Jest -->
+<a href="https://jestjs.io/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="javascript" width="40" height="40"/>
+</a>
+
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -69,6 +79,11 @@
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
+<!-- IntelliJ -->
+<a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="eclipse" width="40" height="40"/>
 </a>
 
 <!-- Vscode -->

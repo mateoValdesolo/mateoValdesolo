@@ -52,7 +52,7 @@
 
 <!-- SonarQube -->
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-line-wordmark.svg" alt="docker" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="docker" width="40" height="40"/> 
 </a>
   
 <!-- Haskell -->

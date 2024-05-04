@@ -43,8 +43,17 @@
 <!-- Docker -->
 <a href="https://www.haskell.org/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
-</a> 
-  
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="docker" width="40" height="40"/> 
+</a>
+
+<!-- SonarQube -->
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-line-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a>
   
 <!-- Haskell -->
 <a href="https://www.haskell.org/" target="_blank"> 

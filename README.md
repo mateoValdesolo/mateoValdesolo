@@ -41,7 +41,7 @@
 </a> -->
 
 <!-- Docker -->
-<a href="https://www.haskell.org/" target="_blank"> 
+<a href="https://www.docker.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
 </a>
 
